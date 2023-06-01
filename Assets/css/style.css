@@ -228,3 +228,63 @@ footer{
     margin-top: 20px;
     text-align: center;
 }
+
+@media only screen and (max-width: 768px) { 
+    .logo h2 {
+        font-size: 25px;
+    }
+    
+    .logo img {
+        width: 25px;
+        margin-top: 20px;
+    }
+    
+    .section-1 {
+        margin-top: 50px;
+    }
+    
+    .area-title h1 {
+        font-size: 35px;
+        line-height: 40px;
+        margin-top: -10px;
+    }
+    
+    .area-title .get-start {
+        padding: 10px 30px;
+        font-size: 16px;
+    }
+    
+    .image1 img, .image2 img {
+        width: 100%;
+        height: auto;
+        margin: 0;
+    }
+    
+    .section-cards {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .cards {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .card {
+        width: 90%;
+        margin: 10px;
+    }
+    
+    .formulario form {
+        width: 90%;
+        max-width: 350px;
+    }
+    
+    .formulario input[type="submit"] {
+        font-size: 16px;
+    }
+    
+    footer {
+        margin-top: 50px;
+    }
+}
