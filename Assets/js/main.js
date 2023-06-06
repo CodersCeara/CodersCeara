@@ -5,5 +5,5 @@ document.querySelector('.formulario form').addEventListener('submit', function(e
         top: 0,
         behavior: "smooth"
     });
-    alert('No momeno os avisos por email estão desativados! Entre na comunidade para receber os avisos!');
+    alert('No momento os avisos por email estão desativados! Entre na comunidade para receber os avisos!');
 });
