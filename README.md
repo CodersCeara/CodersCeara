@@ -36,6 +36,7 @@ O conteúdo do Footer poderá conter:
     └── Termos de uso
     └── Feedback
     └── Contato
+    └── Contribuintes
 ```
 
 ## Design
